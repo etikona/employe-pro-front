@@ -1,7 +1,9 @@
 import React from 'react';
+import Journey from './Journey';
 import Mystry from './Mystry';
 import ProConsumer from './ProConsumer';
 import Rest from './Rest';
+import Social from './Social';
 
 const Home = () => {
     return (
@@ -9,6 +11,8 @@ const Home = () => {
             <ProConsumer/>
             <Rest/>
             <Mystry/>
+            <Social/>
+            <Journey/>
         </div>
     );
 };
