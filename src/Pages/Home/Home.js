@@ -1,4 +1,5 @@
 import React from 'react';
+import FAQ from './FAQ';
 import Journey from './Journey';
 import Mystry from './Mystry';
 import ProConsumer from './ProConsumer';
@@ -13,6 +14,11 @@ const Home = () => {
             <Mystry />
             <Social />
             <Journey />
+            {/* 
+            1) Solution section should added here
+            2) Support section should added here.
+            */}
+            <FAQ/>
         </div>
     );
 };
