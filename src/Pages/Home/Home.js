@@ -8,11 +8,11 @@ import Social from './Social';
 const Home = () => {
     return (
         <div className='bg-emerald-200'>
-            <ProConsumer/>
-            <Rest/>
-            <Mystry/>
-            <Social/>
-            <Journey/>
+            <ProConsumer />
+            <Rest />
+            <Mystry />
+            <Social />
+            <Journey />
         </div>
     );
 };

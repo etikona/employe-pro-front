@@ -10,10 +10,10 @@ const Social = () => {
             <section className='flex mx-20 my-10'>
                 <div className='text-black my-8 mr-5'>
                     <p className='text-lg'>
-                    If you invest this time in Employee Pro your life will changed within 150 days. Change within 10 days.
+                        If you invest this time in Employee Pro your life will changed within 150 days. Change within 10 days.
                     </p>
                     <p className='text-lg'>
-                    Average social media using time  of a people in Bangladesh is 4 hours.
+                        Average social media using time  of a people in Bangladesh is 4 hours.
                     </p>
                 </div>
                 <div>
