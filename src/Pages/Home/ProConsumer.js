@@ -1,5 +1,5 @@
 import React from 'react';
-import ant from '../../Assets/cute-ant-cartoon-holding-green-leaf-vector-36349915.jpg'
+import ant from '../../Assets/ant-removebg-preview.png'
 const ProConsumer = () => {
     return (
         <div>
